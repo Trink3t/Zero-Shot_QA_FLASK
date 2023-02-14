@@ -7,3 +7,7 @@ In this project, I created a simple Python using the HuggingFace's Transformers 
 3. Get the capital of the country.
 
 NOTE: The choices of the country are limited to "Canada, Philippines and Tokyo"
+
+# Libraries Used
+- Transformers
+- PyTorch
